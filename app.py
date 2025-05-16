@@ -15,8 +15,11 @@ import geopandas as gpd
 import pandas as pd
 from matplotlib.colors import Normalize
 import matplotlib.cm as cm
-
 import rioxarray
+
+
+from pyproj import CRS
+print(CRS.from_epsg(4326))
 
 # Title
 st.title("Blue Magic - Sentinel-2")

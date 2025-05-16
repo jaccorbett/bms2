@@ -1,0 +1,15 @@
+# requirements.txt
+
+numpy
+matplotlib
+pystac-client
+odc-geo
+odc-stac
+joblib
+streamlit
+geopandas
+pandas
+rioxarray
+scikit-learn
+
+# pip install -r requirements.txt
