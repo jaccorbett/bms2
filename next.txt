@@ -1,0 +1,6 @@
+2DO:
+
+- clean up app.py file, deploy
+
+- make another SL app, user can select a date range, and it will plot a timeseries at each dive site
+
